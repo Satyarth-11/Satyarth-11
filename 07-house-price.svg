@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300">
-    <rect width="700" height="300" rx="16" fill="#151515"/>
-    <path d="M28 28H672V272H28Z" fill="none" stroke="#51483b" stroke-dasharray="5 7"/>
-    <g stroke="#E7B66A" fill="none" stroke-width="2"><path d="M100 220V85H600V220Z"/><path d="M130 190L230 160L320 175L410 115L550 95"/><path d="M130 190L230 160L320 175L410 115L550 95" stroke-width="4"/></g>
-        <g fill="#E7B66A"><circle cx="130" cy="190" r="5"/><circle cx="230" cy="160" r="5"/><circle cx="320" cy="175" r="5"/><circle cx="410" cy="115" r="5"/><circle cx="550" cy="95" r="5"/></g>
-    <text x="45" y="42" fill="#E7B66A" font-family="monospace" font-size="12" letter-spacing="2">05 / HOUSE PRICE</text>
-    <text x="45" y="275" fill="#9B978F" font-family="monospace" font-size="11">FEATURES / MODEL / PREDICTION</text>
-    </svg>
