@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300">
+    <rect width="700" height="300" rx="16" fill="#151515"/>
+    <path d="M28 28H672V272H28Z" fill="none" stroke="#51483b" stroke-dasharray="5 7"/>
+    <g stroke="#E7B66A" fill="none" stroke-width="2"><path d="M110 215L220 105L335 175L455 85L590 150"/><path d="M110 215L335 175L590 150"/></g>
+        <circle cx="110" cy="215" r="15" fill="#151515" stroke="#E7B66A" stroke-width="2"/><circle cx="220" cy="105" r="15" fill="#151515" stroke="#E7B66A" stroke-width="2"/><circle cx="335" cy="175" r="15" fill="#151515" stroke="#E7B66A" stroke-width="2"/><circle cx="455" cy="85" r="15" fill="#151515" stroke="#E7B66A" stroke-width="2"/><circle cx="590" cy="150" r="15" fill="#151515" stroke="#E7B66A" stroke-width="2"/>
+    <text x="45" y="42" fill="#E7B66A" font-family="monospace" font-size="12" letter-spacing="2">03 / LINKUP</text>
+    <text x="45" y="275" fill="#9B978F" font-family="monospace" font-size="11">REAL-TIME MESSAGING / SOCKET EVENTS</text>
+    </svg>
